@@ -39,8 +39,10 @@
 - **INSTALL**：安装指南
 - **COPYING**：版权声明
 - **BUGS**：已知程序错误，亦包括汇报错误的方法
+- **Help and Support**
 - **FAQ**：有关软件的回答
 - **TODO**：更新预告
+- **Contribute to this documentation**
 
 
 
